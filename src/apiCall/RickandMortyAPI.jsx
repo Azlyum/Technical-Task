@@ -72,7 +72,7 @@ const containerStyle = {
 const controlsStyle = {
   textAlign: "center",
   marginBottom: "20px",
-  color: "#555",
+  color: "#fff",
 };
 
 const cardsContainerStyle = {
